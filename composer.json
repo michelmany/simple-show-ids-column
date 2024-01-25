@@ -1,0 +1,9 @@
+{
+    "name": "michelmany/simple-show-ids-column",
+    "description": "Show IDs Column on admin pages for posts, pages, categories, taxonomies and custom post types.",
+    "type": "worpress-plugin",
+    "license": "GPL-2.0+",
+    "autoload": {
+        "psr-4": {"MMSSIC\\": "./includes"}
+    }
+}
