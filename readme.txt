@@ -1,7 +1,6 @@
 === Simple Show IDs Column ===
 Author URI: https://michelmany.com
-Plugin URI: https://michelmany.com
-Contributors: @michelmany
+Plugin URI: https://wordpress.org/plugins/simple-show-ids-column/
 Tags: reveal, id, admin, show id, display id, hidden, post, page, plugin, taxonomy, category, custom post type id
 Requires at least: 5.5
 Requires PHP: 7.4
@@ -14,7 +13,7 @@ A WordPress plugin to show IDs Column on admin pages for posts, pages, categorie
 
 == Description ==
 
-This simple plugin shows IDs in a new column on admin pages for posts, pages, categories, taxonomies and custom post types.
+This simple plugin shows IDs in a new column on admin pages for posts. Next versions will add an ID column to pages, categories, taxonomies and custom post types.
 
 == Installation ==
 
@@ -30,6 +29,9 @@ Simply check the post ID in the admin page.
 = How to uninstall the plugin? =
 
 Simply deactivate and delete the plugin.
+
+== Screenshots ==
+
 
 == Changelog ==
 = 1.0.0 =
